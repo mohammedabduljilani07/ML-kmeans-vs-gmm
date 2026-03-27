@@ -39,7 +39,7 @@ kmeans-vs-gmm/
 
 ### Step 1: Clone the repository
 ```bash
-git clone https://github.com/[mohammedabduljilani07]/kmeans-vs-gmm.git
+git clone https://github.com/[mohammedabduljilani07]/ML-kmeans-vs-gmm.git
 cd kmeans-vs-gmm
 
 
