@@ -18,7 +18,7 @@ Machine Learning and Neural Networks — Individual Coursework
 
 ## Repository Contents
 
-kmeans-vs-gmm/
+ML-kmeans-vs-gmm/
 ├── README.md
 ├── LICENSE
 ├── requirements.txt
